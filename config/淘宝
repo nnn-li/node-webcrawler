@@ -1,0 +1,1 @@
+{"url":"https://www.taobao.com/","type":"image","from":"1","to":"2","charset":"gbk","saveDir":"e:\\taobao","imageFn":"function (url) {return url.replace('/n5/', '/n0/');}","selector":[{"$":"$(\".p-img a\")","attr":"href"},{"$":"$(\"#spec-list\").find(\"img[data-url]\")","attr":"src"}],"isPagination":1,"mode":"web"}
